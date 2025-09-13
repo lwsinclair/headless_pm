@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ocontant-headless-pm-badge.png)](https://mseep.ai/app/ocontant-headless-pm)
+
 # Headless PM - LLM Agent Task Coordination API
 
 A comprehensive REST API for coordinating LLM agents in software development projects with document-based communication, service registry, and Git workflow integration.
